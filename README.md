@@ -10,9 +10,9 @@ Seja bem-vindo ao meu perfil! Sou um estudante apaixonado por tecnologia, progra
 
 - 🎓 Estudante do 2º ano do Técnico em Programação de Jogos Digitais.
 - 🕹️ Apaixonado por game design, criação de mecânicas e desenvolvimento de mundos virtuais.
-- 🌱 Atualmente estudando e me aprimorando em **[Html, Css E JavaScript]** e **[goodot]**.
+- 🌱 Atualmente estudando e me aprimorando em **Html, Css E JavaScript** e **goodot**.
 - 💡 Sempre em busca de aprender novas ferramentas, participar de Game Jams e criar projetos divertidos.
-- ⚡ Curiosidade: **[Meu hobby fv é assistir filme ou serie, goto de jogos como free fire, coutry strike e valorant]**.
+- ⚡ Curiosidade: **Meu hobby fv é assistir filme ou serie, goto de jogos como free fire, coutry strike e valorant**.
 
 ---
 
